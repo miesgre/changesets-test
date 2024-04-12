@@ -1,5 +1,5 @@
 {
-  "name": "changesets-test",
+  "name": "miesgre-changesets-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@changesets/cli": "^2.27.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
